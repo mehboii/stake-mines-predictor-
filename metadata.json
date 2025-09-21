@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Stake Mine Predictor",
+  "description": "An AI-powered tool that simulates and predicts mine placements for the Stake 'Mines' game using server seeds, client seeds, and nonces. For educational and entertainment purposes only.",
+  "requestFramePermissions": []
+}
