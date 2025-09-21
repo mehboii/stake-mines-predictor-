@@ -51,9 +51,9 @@ const App: React.FC = () => {
       <div className="w-full max-w-4xl mx-auto">
         <header className="text-center mb-8">
             <h1 className="text-4xl md:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-cyan-500 mb-2">
-                Gemini Mine Predictor
+                Boii Mine Predictor
             </h1>
-            <p className="text-slate-400">AI-powered simulation for Stake's Mines game.</p>
+            <p className="text-slate-400">AI-powered simulation for the Mines game.</p>
         </header>
         
         <main className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12">
